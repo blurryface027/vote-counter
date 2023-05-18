@@ -28,11 +28,11 @@ button {
     border-radius: 5px;
 }
 
-#increment-btn {
-    background: darkred;
+#voted-btn {
+    background: red;
 }
 
 #save-btn {
-    background: darkgreen;
+    background: green;
 }
 
